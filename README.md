@@ -1,2 +1,2 @@
 # FoodStandLocator
-Street foodstands regression and clustering - tortas, tamales, and tacos! 🌮
+Find where to allocate yet another foodstand in Mexico - Tacos, Tortas &amp; Tamales! 🌮

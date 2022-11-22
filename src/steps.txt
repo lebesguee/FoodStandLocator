@@ -1,0 +1,28 @@
+1. Found informal Food Industry (Street food stands) data retreived from Baruch's map - https://bit.ly/3hYX2xt. Available data includes: foodstand description, offered food, and geographical coordinates (Lat, Lon). DONE
+
+2. Used KML file to extract and analyse data. Insights found about X foodstands by Y category. DONE
+
+3. Got key from the Bing Maps REST API. Used geocoder python library to get postal code from coordinates - https://geocoder.readthedocs.io/providers/Bing.html DONE
+
+4. Consolidate a table with the structure: State | ZipCode | FoodstandsCount
+
+5. Enrich with ENOE data to get more foodstands. Apply rationale to get more data - 0-5 workers for each economic unit and not fixed location 
+
+6. Use INEGI API?
+
+7. Build visualizations. Get insights.
+
+
+
+***
+## Step 0. Get informal foodstands data
+
+##### This notebook brings informal foodstands from a street food map created by the cartographer Baruch Sangines (Twitter: @datavizero) as referenced in:
+##### https://mexicocity.cdmx.gob.mx/mexico-city-street-food-map/?lang=es
+##### https://www.forbes.com.mx/este-cartografo-y-google-buscan-crear-el-mapa-de-comida-callejera-mas-grande-de-mexico/
+##### https://plumasatomicas.com/noticias/mexico/ya-esta-listo-asi-quedo-el-mapa-colaborativo-de-comida-callejera-en-cdmx-y-zona-metropolitana/
+##### https://twitter.com/googlemexico/status/1453745902980587523?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1453745902980587523%7Ctwgr%5Eb47ee44b770bae09e363536abbb307daf89944b2%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fplumasatomicas.com%2Fnoticias%2Fmexico%2Fya-esta-listo-asi-quedo-el-mapa-colaborativo-de-comida-callejera-en-cdmx-y-zona-metropolitana%2F
+
+##### Baruch's page and the actual custom Google Maps object:
+##### https://datavizero.com/blog
+##### https://www.google.com/maps/d/viewer?mid=1sxyNOq9dTiikWXY8Kp5GbE-4tjpM5Lav&ll=19.32859664421004%2C-99.0315950530261&z=12

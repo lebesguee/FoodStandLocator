@@ -1,0 +1,156 @@
+,Lat,Long,Name,ZipCode,State,FoodstandType
+0,19.3346337,-99.1231656,Tacos,04260,Ciudad de México,Tacos
+1,19.334671,-99.020809,Quesadillas,09640,Ciudad de México,Antojitos
+2,19.3352142,-99.1805527,Tacos de canasta,04360,Ciudad de México,Tacos
+3,19.3384595,-99.2053411,Barbacoa,01080,Ciudad de México,Barbacoa
+4,19.3512611,-99.1626925,Tacos de canasta,04100,Ciudad de México,Tacos
+5,19.355437,-99.2406969,Carnitas,01548,Ciudad de México,Antojitos
+6,19.3743032,-99.180551,Tacos de canasta,03920,Ciudad de México,Tacos
+7,19.3828616,-99.1493935,Elotes y esquites,03600,Ciudad de México,Antojitos
+8,19.3868167,-99.0214581,Tacos,57750,México,Tacos
+9,19.3891122,-99.1441491,Tamales,03420,Ciudad de México,Antojitos
+10,19.3973449,-99.1852144,Quesadillas,11870,Ciudad de México,Antojitos
+11,19.3995149,-99.0220915,Birria,57700,México,Antojitos
+12,19.4084403,-99.1765592,Torta de chilaquil,06100,Ciudad de México,Tortas
+13,19.4095907,-99.1241291,Huaraches,15840,Ciudad de México,Antojitos
+14,19.4275289,-99.1514135,Tacos,06040,Ciudad de México,Tacos
+15,19.4289243,-99.1565727,Quesadillas,06600,Ciudad de México,Antojitos
+16,19.4289243,-99.1565727,Mixotes,06600,Ciudad de México,Antojitos
+17,19.4352339,-99.184811,Garnachas,11560,Ciudad de México,Antojitos
+18,19.438148,-99.2010468,Esquites,11530,Ciudad de México,Antojitos
+19,19.4776895,-99.1994053,Birria,02760,Ciudad de México,Antojitos
+20,19.4813372,-99.0694231,Hamburguesas,07550,Ciudad de México,Hamburguesas
+21,19.5438012,-99.1496599,Tacos,07230,Ciudad de México,Tacos
+22,19.3738319,-99.185729,Quesadillas,03920,Ciudad de México,Antojitos
+23,19.0113977,-98.1820028,Molotes,72540,Puebla,Antojitos
+24,19.261774,-99.6035776,Tacos y tostadas,52140,México,Tacos
+25,19.261774,-99.6035776,Tamales,52140,México,Antojitos
+26,19.2621769,-99.1094742,Barbacoa,16050,Ciudad de México,Barbacoa
+27,19.2792285,-99.0064227,Barbacoa,13010,Ciudad de México,Barbacoa
+28,19.2825846,-99.0001701,Carnitas,13420,Ciudad de México,Antojitos
+29,19.283185,-99.20369,Barbacoa,14250,Ciudad de México,Barbacoa
+30,19.2857822,-99.1401925,Barbacoa,14380,Ciudad de México,Barbacoa
+31,19.2858895,-98.9992273,Tamales,13430,Ciudad de México,Antojitos
+32,19.286159,-99.136461,Quesadillas,14387,Ciudad de México,Antojitos
+33,19.2891037,-99.1474891,"Bistec, pastor, birria",14389,Ciudad de México,Tacos
+34,19.290575,-99.223022,Tamales,14240,Ciudad de México,Antojitos
+35,19.290769,-99.180351,Quesadillas,14250,Ciudad de México,Antojitos
+36,19.292112,-99.124449,Tacos,14390,Ciudad de México,Tacos
+37,19.2929319,-99.1458496,Carnitas,14370,Ciudad de México,Antojitos
+38,19.29569,-99.0149273,Quesadillas,13400,Ciudad de México,Antojitos
+39,19.2977434,-99.1382489,"Bistec, pastor, suadero",14370,Ciudad de México,Tacos
+40,19.3151023,-99.1035733,Elotes y Esquites,04909,Ciudad de México,Antojitos
+41,19.3222152,-99.1695942,Barbacoa,04369,Ciudad de México,Barbacoa
+42,19.3222152,-99.1695942,Quesadillas,04369,Ciudad de México,Antojitos
+43,19.331532,-99.160075,Tacos,04369,Ciudad de México,Tacos
+44,19.3349653,-99.1995079,Chilaquiles,01090,Ciudad de México,Antojitos
+45,19.337938,-99.220438,Tacos,01780,Ciudad de México,Tacos
+46,19.345363,-99.17099,Hamburguesas,04310,Ciudad de México,Hamburguesas
+47,19.3507719,-99.1474693,Barbacoa,04120,Ciudad de México,Barbacoa
+48,19.353319,-99.160558,Tamales,04100,Ciudad de México,Antojitos
+49,19.3534188,-99.1155678,Tamales,09810,Ciudad de México,Antojitos
+50,19.3547891,-99.1858708,Tacos de canasta,01020,Ciudad de México,Tacos
+51,19.355154,-99.152218,Tamales,04120,Ciudad de México,Antojitos
+52,19.3634544,-99.1737992,Mariscos,03240,Ciudad de México,Antojitos
+53,19.3656502,-99.048649,"Tacos, hamburguesas, alitas, postres, burritos hot dogs.",09209,Ciudad de México,Tacos
+54,19.3712351,-99.1830874,Chilaquiles,03920,Ciudad de México,Antojitos
+55,19.386853,-99.141174,Chilaquiles,03430,Ciudad de México,Antojitos
+56,19.388803,-99.183846,Pizza,03800,Ciudad de México,Pizza
+57,19.3888955,-99.192162,Barbacoa,01180,Ciudad de México,Barbacoa
+58,19.3892665,-99.155114,Quesadillas,03020,Ciudad de México,Antojitos
+59,19.3896482,-99.1574368,Chilaquiles,03020,Ciudad de México,Antojitos
+60,19.393075,-99.061542,Carnitas,08500,Ciudad de México,Antojitos
+61,19.394322,99.134251,Quesadillas,50190,México,Antojitos
+62,19.39544175,-99.12047224,Tortas,08610,Ciudad de México,Tortas
+63,19.3997755,-99.1952153,Quesadillas,01120,Ciudad de México,Antojitos
+64,19.401244,-99.14846,Barbacoa,03023,Ciudad de México,Barbacoa
+65,19.4015737,-99.1570805,Barbacoa,03020,Ciudad de México,Barbacoa
+66,19.4021476,-99.1518762,Tacos,03000,Ciudad de México,Tacos
+67,19.40610588,-99.19705919,Quesadillas,11840,Ciudad de México,Antojitos
+68,19.406264,-99.1971445,Quesadillas,11840,Ciudad de México,Antojitos
+69,19.4076741,-99.1550395,Hamburguesas Hawaianas,06720,Ciudad de México,Hamburguesas
+70,19.408417,-99.135959,Carnitas,06800,Ciudad de México,Antojitos
+71,19.409856,-99.165205,Barbacoa,06760,Ciudad de México,Barbacoa
+72,19.410336,-99.0827278,Carnitas,15020,Ciudad de México,Antojitos
+73,19.411798,-99.161039,Barbacoa,06700,Ciudad de México,Barbacoa
+74,19.411852,-99.124399,Carnitas,15830,Ciudad de México,Antojitos
+75,19.411852,-99.124399,Carnitas,15830,Ciudad de México,Antojitos
+76,19.4125818,-99.181755,Birria,11850,Ciudad de México,Antojitos
+77,19.4139981,-99.058645,Tamales,08100,Ciudad de México,Antojitos
+78,19.414528,-99.091663,Quesadillas,15010,Ciudad de México,Antojitos
+79,19.4257948,-99.155442,Tacos,06600,Ciudad de México,Tacos
+80,19.4267049,-99.1566163,Quesadillas,06600,Ciudad de México,Antojitos
+81,19.4274873,-99.1473716,Quesadillas,06070,Ciudad de México,Antojitos
+82,19.428442,-99.16834,"Gorditas, quesadillas, tacos dorados, gringas",06500,Ciudad de México,Antojitos
+83,19.4408866,-99.1609568,Tacos,06470,Ciudad de México,Tacos
+84,19.4419,-99.198056,Chilaquiles,11529,Ciudad de México,Antojitos
+85,19.4421238,-99.0995433,Taqueria,15400,Ciudad de México,Tacos
+86,19.443307,-99.085341,Tacos de Guisados,15520,Ciudad de México,Tacos
+87,19.4496235,-99.114917,Taqueria,15240,Ciudad de México,Tacos
+88,19.449936,-99.057534,Tacos,07900,Ciudad de México,Tacos
+89,19.451152,-99.1416308,Barbacoa,06300,Ciudad de México,Barbacoa
+90,19.4515153,-99.1428278,Barbacoa,06300,Ciudad de México,Barbacoa
+91,19.451959,-99.144578,Suadero,06300,Ciudad de México,Tacos
+92,19.4564498,-99.1447512,Hamburguesa,06920,Ciudad de México,Antojitos
+93,19.46021,-99.12921,Flautas,06220,Ciudad de México,Antojitos
+94,19.465933,-99.101154,Tamales,07839,Ciudad de México,Antojitos
+95,19.46653,-99.066126,Gorditas ahogadas,07918,Ciudad de México,Antojitos
+96,19.46708,-99.07853,Quesadillas,07910,Ciudad de México,Antojitos
+97,19.46833,99.12978,Chilaquiles,50170,México,Antojitos
+98,19.476143,-99.124624,Elotes y esquites,07800,Ciudad de México,Antojitos
+99,19.48238,-99.07962,Tacos de suadero,07530,Ciudad de México,Tacos
+100,19.484478,-99.233817,Tamales,53310,México,Antojitos
+101,19.50260603,-99.15720113,Hamburguesas,02300,Ciudad de México,Hamburguesas
+102,19.5076675,-99.0970837,Hamburguesas,07090,Ciudad de México,Hamburguesas
+103,19.5078666,-99.0974505,Tacos,07090,Ciudad de México,Tacos
+104,19.5078666,-99.0974505,Hamburguesas,07090,Ciudad de México,Hamburguesas
+105,19.5086424,-99.1003999,Tamales,07090,Ciudad de México,Antojitos
+106,19.5091917,-99.1029852,Carnitas,07090,Ciudad de México,Antojitos
+107,19.509301,-99.1003734,"Tacos de suadero, tripa y cabeza",07090,Ciudad de México,Tacos
+108,19.509375,-99.1023385,Sushi,07090,Ciudad de México,Antojitos
+109,19.5109308,-99.0363903,Quesadillas,55240,México,Antojitos
+110,19.518724,-99.207011,Desayunos,54090,México,Antojitos
+111,19.5411073,-99.1394727,Tamales,07209,Ciudad de México,Antojitos
+112,19.57146216,-99.18973225,Hamburguesas,54110,México,Hamburguesas
+113,19.670385,-99.181405,Tacos de Guisado,54800,México,Tacos
+114,20.673838,-103.2864324,Barbacoa,44760,Jalisco,Barbacoa
+115,20.676389,-101.376734,Quesadillas,36643,Guanajuato,Antojitos
+116,20.726908,-103.336119,Barbacoa,45198,Jalisco,Barbacoa
+117,22.76521,-102.55003,Tacos,98068,Zacatecas,Tacos
+118,25.6834192,-100.4294955,"Tacos, enchiladas, gorditas",66139,Nuevo León,Tacos
+119,25.6860128,-100.4428214,Barbacoa,66365,Nuevo León,Barbacoa
+120,25.6867286,-100.4439791,Tacos,66365,Nuevo León,Tacos
+121,25.6887137,-100.4370724,Tacos,66365,Nuevo León,Tacos
+122,25.74461,-100.1683533,Carnitas,66640,Nuevo León,Antojitos
+123,27.879082,-101.518184,Taquería,26340,Coahuila,Tacos
+124,19.4611038,-99.1405509,Calz. Vallejo 135,06220,Ciudad de México,Antojitos
+125,19.3826111,-99.1571111,Barbacoa,03020,Ciudad de México,Barbacoa
+126,19.3829755,-99.1571131,Punto 140,03020,Ciudad de México,Antojitos
+127,22.3736421,-97.9057292,Sushi,89606,Tamaulipas,Antojitos
+128,19.19067,-99.021298,Costreria ,12000,Ciudad de México,Antojitos
+129,19.3783666,-99.1710489,Barbacoa,03200,Ciudad de México,Barbacoa
+130,19.3000026,-99.1746957,Quesadillas,14030,Ciudad de México,Antojitos
+131,19.3092794,-99.1607717,Alitas,04600,Ciudad de México,Antojitos
+132,19.3189149,-99.1429669,Sopetacos,04640,Ciudad de México,Antojitos
+133,19.4161685,-99.1712647,Quesadillas,06700,Ciudad de México,Antojitos
+134,19.4062222,-99.1664722,Tortas,06760,Ciudad de México,Tortas
+135,19.3702777,-99.165025,Quesadillas,03310,Ciudad de México,Antojitos
+136,19.3984856,-99.1471275,MEMELAS,03023,Ciudad de México,Antojitos
+137,19.5450625,-99.1453125,Barbacoa,07207,Ciudad de México,Barbacoa
+138,19.2972594,-99.1485137,Pancita,14370,Ciudad de México,Antojitos
+139,19.3786014,-99.1546641,Quesadillas,03650,Ciudad de México,Antojitos
+140,19.4323125,-99.1653125,Barbacoa,06500,Ciudad de México,Barbacoa
+141,19.4915625,-99.1394375,Barbacoa,07730,Ciudad de México,Barbacoa
+142,19.4301875,-99.1425625,Tamales,06070,Ciudad de México,Antojitos
+143,19.4278125,-99.1349375,Quesadillas,06090,Ciudad de México,Antojitos
+144,19.4026393,-99.1793649,"Tortas, tacos y más",11800,Ciudad de México,Tortas
+145,19.4339375,-99.1561875,Tacos,06030,Ciudad de México,Tacos
+146,19.3798125,-99.1359375,Quesadillas,03500,Ciudad de México,Antojitos
+147,19.3260583,-99.0317175,Carnitas ,09700,Ciudad de México,Antojitos
+148,19.4368762,-99.1525448,Barbacoa ,06030,Ciudad de México,Barbacoa
+149,19.4008275,-99.1314057,Tortas,08200,Ciudad de México,Tortas
+150,19.2649498,-99.0071121,Tacos de carne asada. ,13080,Ciudad de México,Tacos
+151,19.4149537,-99.125159,Carnitas,15820,Ciudad de México,Antojitos
+152,19.2920247,-99.1268204,Barbacoa ,14390,Ciudad de México,Barbacoa
+153,19.3946006,-99.1589352,Carnitas,03020,Ciudad de México,Antojitos
+154,19.3838928,-99.1522304,Tacos ,03600,Ciudad de México,Tacos
